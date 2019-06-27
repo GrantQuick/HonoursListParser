@@ -1,7 +1,7 @@
 ## HonoursListParser
 A Python script for parsing the names of UK honours recipients.
 
-IN the csv files hosted by gov.uk, the names of individuals in receipt of awards are all listed in a single column which makes cross-referencing against existing databases tricky. The script aims to separate out the prefixes, first names, middle names, surnames and suffixes into the appropriate fields of a destination csv, for easy matching against, or inport into, existing database systems.
+In the csv files hosted by gov.uk, the names of individuals in receipt of awards are all listed in a single column which makes cross-referencing against existing databases tricky. The script aims to separate out the prefixes, first names, middle names, surnames and suffixes into the appropriate fields of a destination csv, for easy matching against, or inport into, existing database systems.
 
 ## Getting Started
 UK honours lists are available from [gov.uk](https://www.gov.uk/search/all?parent=&keywords=honours+list&level_one_taxon=&manual=&public_timestamp%5Bfrom%5D=&public_timestamp%5Bto%5D=&order=relevance). 
