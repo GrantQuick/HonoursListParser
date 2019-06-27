@@ -7,8 +7,8 @@ The names of individuals in receipt of awards are all listed in a single column,
 UK honours lists are available from [gov.uk](https://www.gov.uk/search/all?parent=&keywords=honours+list&level_one_taxon=&manual=&public_timestamp%5Bfrom%5D=&public_timestamp%5Bto%5D=&order=relevance). 
 
 ## Running the script
-1. Update the value of **source_file_full_path** to point to a csv file obtained from gov.uk containing a list of honours recipients.
-2. Define the output file by updating the value of **output_file_full_pat**
+1. Update the value of **source_file_full_path** to point to a csv file obtained from gov.uk containing a list of honours recipients
+2. Define the output file by updating the value of **output_file_full_path**
 3. Run the script
 
 ## Known Issues
